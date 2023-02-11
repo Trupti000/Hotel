@@ -1,0 +1,77 @@
+img{
+    width: 15%;
+    height: 15%;
+
+}
+.hero img{
+    width: 100%;
+    height: 30%;
+}
+.head h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.657);
+    font-size: 40px;
+    margin: 8%;
+    font-weight: bolder;
+}
+.row{
+    margin: 5%;
+}
+
+.about img{
+    width: 100%;
+    height: 80%;
+}
+.about h2{
+    font-size: 90px;
+    color: rgba(0, 0, 0, 0.486);
+    font-weight: bolder;
+}
+
+.service img{
+    width: 100%;
+    height: 80%;
+}
+.service h2{
+    font-size: 80px;
+    color: rgba(0, 0, 0, 0.486);
+    font-weight: bolder;
+}
+.TIME img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    height: 40%;
+}
+.contact h1{
+    margin: 8%;
+    font-size: 70px;
+    color: rgba(255, 140, 0, 0.479);
+    align-items: center;
+    display: flex;
+}
+.home h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    
+}
+.TIME:hover{
+    color: rgba(169, 169, 169, 0.513);
+}
+
+.home{
+    padding: 3%;
+    margin: 5%;
+    background-color: rgba(169, 169, 169, 0.613);
+}
+.right a{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
