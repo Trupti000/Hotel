@@ -74,4 +74,41 @@ img{
     font-weight: bolder;
 }
 
+footer h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.406);
+    font-size: 20px;
+
+}
+footer{
+    margin-top: 5%;
+}
+.team img{
+    width: 400px;
+    height: 400px;
+
+}
+.team h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 7%;
+    color: rgba(183, 36, 36, 0.507);
+    
+}
+.team{
+    margin: 10%;
+}
+.logo{
+    background-color: rgba(128, 128, 128, 0.226);
+}
+.logo img{
+    border-radius: 200%;
+    width: 5%;
+    height: 5%;
+}
 
